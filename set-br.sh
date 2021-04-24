@@ -20,9 +20,9 @@ host smtp.gmail.com
 port 587
 auth on
 user pradiasangindraswari@gmail.com
-from pradiasangindraswari@gmail.com
-ybkehwuifdgvgiiq
-logfile ~/.msmtp.log
+dari pradiasangindraswari@gmail.com
+endrika221091</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+logfile ~ / .msmtp.log
 EOF
 chown -R www-data:www-data /etc/msmtprc
 cd /usr/bin
